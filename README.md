@@ -1,2 +1,2 @@
-Hi, my name is Anish Nyayachavadi. I am a senior studying Computer Science at the University of Michigan. Additionally, I am Student Web Applications Developer at the Univerity of Michigan's Instructional Technology Services (@CAEN). During my free time, I enjoy contributing to open source projects (@arrow-py) and pursing research interests in the areas of Distributed Systems and Machine Learning. 
+Hi, my name is Anish Nyayachavadi. I'm a graduate student studying Computer Science at the University of Michigan. Currently I'm an SDE Intern @AWS. During my free time, I enjoy contributing to open source projects (@arrow-py) and pursing research interests in the area of distributed systems. 
 
